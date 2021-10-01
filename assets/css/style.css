@@ -297,7 +297,7 @@ ul {
 
 #footer {
     padding: 64px 0;
-    opacity: .6;
+    opacity: .7;
     background-color: #f1f1f1;
     text-align: center;
 }
@@ -309,7 +309,7 @@ ul {
 }
 
 #footer .footer-icon i:hover {
-    opacity: .6;
+    opacity: .5;
     cursor: pointer;
 }
 
